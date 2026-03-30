@@ -6,6 +6,11 @@ El objetivo del trabajo fue construir una página web funcional para una clínic
 
 ---
 
+# 🌐 Demo online
+GitHub Pages:
+👉 https://ivannaar94.github.io/Entrega2-Arzamendia-Clinica-js-CoderH/  
+---
+
 # Descripción del proyecto
 
 La página web representa el sitio institucional de **Clínica Central IMA**, donde los usuarios pueden visualizar las especialidades médicas disponibles y gestionar turnos médicos de forma interactiva.
